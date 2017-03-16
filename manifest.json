@@ -1,10 +1,10 @@
 {
- "short_name": "FB",
+ "short_name": "F Buddy",
  "name": "Food Buddy",
  "background_color": "#673ab7",
  "theme_color": "#673ab7",
  "display": "standalone",
- "start_url": "/?utm_source=homescreen",
+ "start_url": "/index.html?utm_source=homescreen",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
