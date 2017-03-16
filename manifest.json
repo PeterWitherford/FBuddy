@@ -4,6 +4,8 @@
  "display": "standalone",
  "background_color": "#673ab7",
  "theme_color": "#673ab7",
+ "description": "An app the quickly find nearby food.",
+ start_url: “/index.html”,
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
