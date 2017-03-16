@@ -1,5 +1,6 @@
 {
- "name": "Food Buddy",
+ "short_name": "Food Buddy",
+ "name": "Peters Food Buddy Application",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
