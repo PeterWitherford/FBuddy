@@ -2,6 +2,7 @@
  "short_name": "Food Buddy 1",
  "name": "Peters Food Buddy Application",
  "display": "standalone",
+ "orientation": "portrait",
  "background_color": "#673ab7",
  "theme_color": "#673ab7",
  "description": "An app the quickly find nearby food.",
