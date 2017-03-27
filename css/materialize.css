@@ -3981,8 +3981,7 @@ button.btn-floating {
 .collapsible-body {
   display: none;
   border-bottom: 1px solid #ddd;
-  box-sizing: border-box;
-  padding: 2rem; }
+  box-sizing: border-box; }
 
 .side-nav .collapsible,
 .side-nav.fixed .collapsible {
